@@ -75,14 +75,11 @@ The analysis provided valuable insights into sales performance, customer behavio
 2. Explore the various sheets to understand the data and analysis.
 3. Use the interactive dashboard to filter and view specific data insights.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - Special thanks to the team members who contributed to data collection and analysis.
 - Thanks to the supermarket for providing the data.
 
 ## Contact
-For any questions or feedback, please contact [Fiza Pathan:Email](mailto:your-email@example.com).
+For any questions or feedback, please contact [fizapathan2102@gmail.com](mailto:fizapathan2102@gmail.com).
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/fizapathan/)
