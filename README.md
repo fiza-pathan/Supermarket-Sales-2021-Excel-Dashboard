@@ -1,7 +1,5 @@
 # Supermarket Sales Analysis
 
-# Supermarket Sales Analysis 2021
-
 ## Project Overview
 This project involves analyzing supermarket sales data from 2021 to derive actionable insights and improve business operations. The analysis includes data cleaning, visualization, and the creation of an interactive dashboard using Excel.
 
