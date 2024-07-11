@@ -83,4 +83,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the supermarket for providing the data.
 
 ## Contact
-For any questions or feedback, please contact [Fiza Pathan](mailto:fizapathan2102@gmail.com).
+For any questions or feedback, please contact [Fiza Pathan:Email](mailto:your-email@example.com).
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
